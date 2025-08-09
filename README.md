@@ -20,13 +20,13 @@ It connects to the backend API to display products, manage cart, process orders,
 ## 🖼️ Screenshots
 
 ### 1️⃣ Home Page
-![Home Page Screenshot](screenshots/homepage.png)
+![Home Page Screenshot](homepage.png)
 
 ### 2️⃣ Login Page
-![Product Details Screenshot](screenshots/login.png)
+![Product Details Screenshot](login.png)
 
 ### 3️⃣ Cart Page
-![Cart Page Screenshot](screenshots/cart.png)
+![Cart Page Screenshot](cart.png)
 
 ### 4️⃣ Order Success
 ![Order Success Screenshot](screenshots/order-success.png)
